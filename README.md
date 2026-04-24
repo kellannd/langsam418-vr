@@ -16,25 +16,19 @@ The room has comfortable bean bags and chairs, arcade games, a turntable with vi
 **How We Built It:**
 We grabbed assets from Meshy.AI for the fun stuff (pinball, bean bags), CGTrader for props and furniture, and AvatarSDK for custom avatars. This let us quickly fill the space with quality assets that all looked cohesive.
 
-**Level 1**
+## Accomplishments by Level
 
-[]
+**Level 1:** Furnished the room with comfortable seating, warm lighting, and ambient sounds (pinball, fan, music).
 
-**Level 2**
+**Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants, lava lamp) with physics and collision detection.
 
-[]
+**Level 3:** Added multiple custom avatarsof ourselves with idle animations (characters dancing) and interactions.
 
-**Level 3**
+**Level 3 Bonus:** Created custom avatar characters using AvatarSDK.com.
 
-[] 
+**Level 4:** [Did we implement any novel interactions with the display or AR content mockups?]
 
-**Level 4**
-
-[]
-
-**Level 5**
-
-[] 
+**Level 5:** Added a moving disco ball with fun lighting affects.
 
 TODO: Add Screenshots
 
