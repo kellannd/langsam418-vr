@@ -6,11 +6,17 @@
 ## Design
 [Room, models, credits, and visuals - screenshots]
 
+## Credits
+- **[Meshy.AI](https://www.meshy.ai):** Orange bean bag, pinball, guitar, turntable
+- **[CGTrader](https://www.cgtrader.com):** Lava lamp, pencil, notebook, coffee cup, gym bag, plants
+- **[TODO]:** Table and chairs
+- **[AvatarSDK.com](https://avatarsdk.com):** Custom characters
+
 ## Process
-- Clone & open in Unity
+- Clone & open in Unity 6.3 LTS (6000.3.1f1)
 - Load `SampleScene.unity` and press Play
 - Main scripts: `AvatarRoomWanderer.cs`, `MixamoMotionModelImporter.cs`
-- Tech: Unity, C#, Mixamo, Meta Quest 3
+- Tech: Unity, C#, [Mixamo](https://www.mixamo.com), [Meta Quest 3](https://www.meta.com/quest/quest-3)
 
 [Add in how we made this application. How did you structure your code?  How can you access it and run it?  What libraries or API's did you use?]
  
@@ -18,7 +24,7 @@
 [What was hard? What's next?]
 
 ## AI & Collaboration
-[AI tools used? Who helped?]
+Minimal AI usage besides for asset creation - mostly developed manually.
 
 ## Demo Video
 [Link to demo]
