@@ -12,6 +12,11 @@
 - **[TODO]:** Table and chairs
 - **[AvatarSDK.com](https://avatarsdk.com):** Custom characters
 
+**Sounds:**
+- **Pinball:** https://youtu.be/gdjx1Dbxpro?si=X661oeg6W-eNQMAY
+- **Dancing Queen:** https://youtu.be/h3KJD9G80dc?si=JisPuD0CwySlWxZ6
+- **Computer Fan:** https://youtu.be/5__04FsiUFc?si=mj-lYYvPO7gbFx7f
+
 ## Process
 - Clone & open in Unity 6.3 LTS (6000.3.1f1)
 - Load `SampleScene.unity` and press Play
