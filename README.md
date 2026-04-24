@@ -1,13 +1,13 @@
-# University of Cincinnati Langsam Room 411 Virtual Reality Model
+# Inside Langsam 411: A Virtual Reality Recreation of University of Cincinnati's Classroom
 
 ## Motivation
-We wanted to create a version of a classroom that aimed to promote a stress-free environment with use of warm and fun colors, comfortable chairs, flexible layout, plants, arcade style game machines, and more. We added interactions to stimulate a realistic environment with interactable
+We wanted to create a version of our classroom that aimed to promote a stress-free environment with use of warm and fun colors, comfortable chairs, flexible layout, plants, arcade style game machines, and more. We added interactions to stimulate a realistic environment with interactable
 laptops and coffee cups, and more. We added sounds that fit with the theme like ABBA's dancing queen, pinball machine sounds, and such. 
 
 
 ## Design
 **Room Overview:**
-We revamped our classroom into a  is a stress free learning space with warm colors, comfy seating, and fun gaming elements. It's designed to feel welcoming and flexible which is perfect for studying solo or hanging out with others.
+We revamped our classroom into a stress free learning space with warm colors, comfy seating, and fun gaming elements. It's designed to feel welcoming and flexible which is perfect for studying solo or hanging out with others.
 
 **Visual Elements:**
 The room has comfortable bean bags and chairs, arcade games, a turntable with vinyl record playing 70's music, lava lamp, plants, and everyday objects like coffee cups and laptops. The soft, warm lighting keeps the vibe relaxed, calm, and inviting.
