@@ -14,7 +14,7 @@ We revamped our classroom into a  is a stress free learning space with warm colo
 The room has comfortable bean bags and chairs, arcade games, a turntable with vinyl record playing 70's music, lava lamp, plants, and everyday objects like coffee cups and laptops. The soft, warm lighting keeps the vibe relaxed, calm, and inviting.
 
 **How We Built It:**
-We grabbed assets from Meshy.AI for the fun stuff (pinball, bean bags), CGTrader for props and furniture, and AvatarSDK for custom avatars. This let us quickly fill the space with quality assets that all looked cohesive.
+We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean bags), CGTrader for props and furniture, and AvatarSDK for custom avatars. This let us fill the space with quality assets that all looked cohesive.
 
 ## Accomplishments by Level
 
@@ -52,8 +52,12 @@ TODO: Add Screenshots
 [Add in how we made this application. How did you structure your code?  How can you access it and run it?  What libraries or API's did you use?]
  
 ## Challenges & Future Work
-[What was hard? What's next?]
-It was hard to connect MetaQuest to Unity because there was a lot of bugs when installing and setting it up. Some computers were more compatible than others, and had an easir time rendering and connecting the environment to Unity. Additionally, we had a difficult time connecting the MetaQuest controllers to Unity. 
+- It was hard to connect MetaQuest to Unity because there was a lot of bugs when installing, setting it up, and dealing with storage issues.
+- Some computers were more compatible than others, and had an easier time rendering and connecting the environment to Unity. 
+- A teammeber couldn't work with the simulator due to having MacOS Intel.
+- We initially struggled with connecting the MetaQuest controllers to Unity. 
+- We had a difficult time independently working on the project since there wasn't an efficient way to share work or have a smooth version control system setup when it comes to unity, and it slowed down development efficiency.
+- As we neared the end of the project and we had a ton of assets Unity kept crashing.
 
 ## AI & Collaboration
 Minimal AI usage besides for asset creation - mostly developed manually.
