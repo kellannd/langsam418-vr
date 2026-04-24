@@ -1,4 +1,4 @@
-# University of Cincinnati Langsam Room 411 VR Model
+# University of Cincinnati Langsam Room 411 Virtual Reality Model
 
 ## Motivation
 We wanted to create a version of a classroom that aimed to promote a stress-free environment with use of warm and fun colors, comfortable chairs, flexible layout, plants, arcade style game machines, and more. We added interactions to stimulate a realistic environment with interactable
@@ -6,7 +6,6 @@ laptops and coffee cups, and more. We added sounds that fit with the theme like 
 
 
 ## Design
-
 **Room Overview:**
 We revamped our classroom into a  is a stress free learning space with warm colors, comfy seating, and fun gaming elements. It's designed to feel welcoming and flexible which is perfect for studying solo or hanging out with others.
 
@@ -17,7 +16,6 @@ The room has comfortable bean bags and chairs, arcade games, a turntable with vi
 We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean bags), CGTrader for props and furniture, and AvatarSDK for custom avatars. This let us fill the space with quality assets that all looked cohesive.
 
 ## Accomplishments by Level
-
 **Level 1:** Furnished the room with comfortable seating, warm lighting, and ambient sounds (pinball, fan, music).
 
 **Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants, lava lamp) with physics and collision detection.
@@ -32,7 +30,7 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 
 TODO: Add Screenshots
 
-## Credits
+### Credits
 - **[Meshy.AI](https://www.meshy.ai):** Orange bean bag, pinball, guitar, turntable
 - **[CGTrader](https://www.cgtrader.com):** Lava lamp, pencil, notebook, coffee cup, gym bag, plants
 - **[TODO]:** Table and chairs
