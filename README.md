@@ -59,6 +59,7 @@ TODO: Add Screenshots
  
 ## Challenges & Future Work
 [What was hard? What's next?]
+It was hard to connect MetaQuest to Unity because there was a lot of bugs when installing and setting it up. Some computers were more compatible than others, and had an easir time rendering and connecting the environment to Unity. Additionally, we had a difficult time connecting the MetaQuest controllers to Unity. 
 
 ## AI & Collaboration
 Minimal AI usage besides for asset creation - mostly developed manually.
