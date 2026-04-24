@@ -1,7 +1,10 @@
 # University of Cincinnati Langsam Room 411 VR Model
 
 ## Motivation
-[Why did we make this?]
+We wanted to create a version of a classroom that aimed to promote a stress-free environment with use of warm and fun colors, comfortable chairs,
+flexible layout, plants, arcade style game machines, and more. We added interactions to stimulate a realistic environment with interactable
+laptops and coffee cups, and more. We added sounds that fit with the theme like ABBA's dancing queen, pinball machine sounds, and such. 
+
 
 ## Design
 [Room, models, credits, and visuals - screenshots]
