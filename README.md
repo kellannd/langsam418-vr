@@ -1,8 +1,7 @@
 # Inside Langsam 411: A Virtual Reality Recreation of University of Cincinnati's Classroom
 
 ## Motivation
-We wanted to create a version of our classroom that aimed to promote a stress-free environment with use of warm and fun colors, comfortable chairs, flexible layout, plants, arcade style game machines, and more. We added interactions to stimulate a realistic environment with interactable
-laptops and coffee cups, and more. We added sounds that fit with the theme like ABBA's dancing queen, pinball machine sounds, and such. 
+We wanted to challenge the idea that learning spaces have to feel formal or stressful. Our goal was to design a virtual classroom that prioritizes comfort, creativity, and playfulness, showing how VR can transform an everyday environment into something more personal and inviting.
 
 
 ## Design
@@ -16,24 +15,24 @@ The room has comfortable bean bags and chairs, arcade games, a turntable with vi
 We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean bags), CGTrader for props and furniture, and AvatarSDK for custom avatars. This let us fill the space with quality assets that all looked cohesive.
 
 ## Accomplishments by Level
-**Level 1:** Furnished the room with comfortable seating, warm lighting, and ambient sounds (pinball, fan, music).
+**Level 1:** Furnished the room with comfortable seating (couches & bean bags), warm lighting, and ambient sounds (pinball, laptop fan sound, music playing from the turntable).
 
-**Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants, lava lamp) with physics and collision detection.
+**Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants) with physics and collision detection.
 
-**Level 3:** Added multiple custom avatarsof ourselves with idle animations (characters dancing) and interactions.
+**Level 3:** Added four custom avatars of ourselves with idle animations (characters dancing) and interactions (they wave as you walk up to them). The large display has a static image but it also has a moving screensaver as you walk up to it.
 
-**Level 3 Bonus:** Created custom avatar characters using AvatarSDK.com.
+**Level 3 Bonus:** Created custom avatar characters that look like us using AvatarSDK.com.
 
-**Level 4:** [Did we implement any novel interactions with the display or AR content mockups?]
+**Level 4:** Approaching the pinball machine plays sound, the laptop opens as you near it, the turntable's music grows louder or softer with your distance, and walking up to the avatars makes them stop dancing and wave.
 
-**Level 5:** Added a moving disco ball with fun lighting affects.
+**Level 5:** Added a spinning disco ball with fun lighting effects.
 
 TODO: Add Screenshots
 
-### Credits
+**Credits**
 - **[Meshy.AI](https://www.meshy.ai):** Orange bean bag, pinball, guitar, turntable
 - **[CGTrader](https://www.cgtrader.com):** Lava lamp, pencil, notebook, coffee cup, gym bag, plants
-- **[TODO]:** Table and chairs
+- **[Unity Asset Store](https://assetstore.unity.com/):** Tables and chairs
 - **[AvatarSDK.com](https://avatarsdk.com):** Custom characters
 
 **Sounds:**
@@ -52,7 +51,7 @@ TODO: Add Screenshots
 ## Challenges & Future Work
 - It was hard to connect MetaQuest to Unity because there was a lot of bugs when installing, setting it up, and dealing with storage issues.
 - Some computers were more compatible than others, and had an easier time rendering and connecting the environment to Unity. 
-- A teammeber couldn't work with the simulator due to having MacOS Intel.
+- A teammember couldn't work with the simulator due to having MacOS Intel.
 - We initially struggled with connecting the MetaQuest controllers to Unity. 
 - We had a difficult time independently working on the project since there wasn't an efficient way to share work or have a smooth version control system setup when it comes to Unity, and it slowed down development efficiency and put burden on one of the team members more than the others which felt unfair.
 - As we neared the end of the project and we had a ton of assets in Unity that made our programs crash continious and we had a lot of trouble getting the controllers to work.
