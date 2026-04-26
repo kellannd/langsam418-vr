@@ -54,7 +54,7 @@ TODO: Add Screenshots
 - Some computers were more compatible than others, and had an easier time rendering and connecting the environment to Unity. 
 - A teammember couldn't work with the simulator due to having MacOS Intel.
 - We initially struggled with connecting the MetaQuest controllers to Unity. 
-- We had a difficult time independently working on the project since there wasn't an efficient way to share work or have a smooth version control system setup when it comes to Unity, and it slowed down development efficiency and put burden on one of the team members more than the others which felt unfair.
+- We had a difficult time asynchronously working on the project since there wasn't an efficient way to share work or have a smooth version control system setup when it comes to Unity, and it slowed down development efficiency and put burden on one of the team members more than the others which felt unfair.
 - As we neared the end of the project and we had a ton of assets in Unity that made our programs crash continious and we had a lot of trouble getting the controllers to work.
 - In the future we'd continue adding more unique assets and add more AR elements to make the scenes more realistic and fun to interact with.
 
