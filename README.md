@@ -22,8 +22,11 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 **Level 3:** Added four custom avatars of ourselves with idle animations (characters dancing) and interactions (they wave as you walk up to them). The large display has a static image but it also has a moving screensaver as you walk up to it.
 
 **Level 3 Bonus:** Created custom avatar characters that look like us using AvatarSDK.com.
-<img width="400" height="791" alt="image" src="https://github.com/user-attachments/assets/6ef3d082-c945-4cce-9076-10247318ad5c" />
-<img width="400" height="593" alt="image" src="https://github.com/user-attachments/assets/1e4ec728-9dea-4ec4-926e-ad1ef0732f9f" />
+| Fareena | Elshaddai | Ikran | Kelly |
+|----------|----------|----------|----------|
+| <img width="204" height="395" alt="image" src="https://github.com/user-attachments/assets/6ef3d082-c945-4cce-9076-10247318ad5c" /> | <img width="200" height="296.3" alt="image" src="https://github.com/user-attachments/assets/1e4ec728-9dea-4ec4-926e-ad1ef0732f9f" />
+ | Value 3  | Value 4  |
+
 
 
 **Level 4:** Approaching the pinball machine plays sound, the laptop opens as you near it, the turntable's music grows louder or softer with your distance, and walking up to the avatars makes them stop dancing and wave.
