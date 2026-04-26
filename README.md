@@ -1,5 +1,7 @@
 # Inside Langsam 418: A Virtual Reality Recreation of University of Cincinnati's Classroom
 
+<img src="media/welcome-langsam.png" alt="Welcome to Langsam" width="500" />
+
 ## Motivation
 We wanted to challenge the idea that learning spaces have to feel formal or stressful. Our goal was to design a virtual classroom that prioritizes comfort, creativity, and playfulness, showing how VR can transform an everyday environment into something more personal and inviting.
 
@@ -17,9 +19,16 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 ## Accomplishments by Level
 **Level 1:** Furnished the room with comfortable seating (couches & bean bags), warm lighting, and ambient sounds (pinball, music playing from the turntable).
 
+<img src="media/table-chairs.png" alt="Tables and chairs" width="300" />
+<img src="media/turntable-and-beanbags.png" alt="Turntable and bean bags" width="300" />
+
 **Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants) with physics and collision detection.
 
+<img src="media/interactable-items.png" alt="Interactable items" width="300" />
+
 **Level 3:** Added four custom avatars of ourselves with idle animations (characters dancing) and interactions (they wave as you walk up to them). The large display has a static image but it also has a moving screensaver as you walk up to it.
+
+<img src="media/avatars-dancing.png" alt="Avatars dancing" width="300" />
 
 **Level 3 Bonus:** Created custom avatar characters that look like us using AvatarSDK.com.
 | Fareena | Elshaddai | Ikran | Kelly |
@@ -30,7 +39,11 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 
 **Level 4:** Approaching the pinball machine plays sound, the laptop opens as you near it, the turntable's music grows louder or softer with your distance, and walking up to the avatars makes them stop dancing and wave.
 
+<img src="media/pinball-machine.png" alt="Pinball machine" width="300" />
+
 **Level 5:** Added a spinning disco ball with fun lighting effects.
+
+<img src="media/disco-ball.png" alt="Disco ball" width="300" />
 
 **Credits**
 - **[Meshy.AI](https://www.meshy.ai):** Orange bean bag, turntable
@@ -51,7 +64,15 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 - Main scripts: `AvatarRoomWanderer.cs`, `MixamoMotionModelImporter.cs`
 - Tech: Unity, C#, [Mixamo](https://www.mixamo.com), [Meta Quest 3](https://www.meta.com/quest/quest-3)
 
-[Add in how we made this application. How did you structure your code?  How can you access it and run it?  What libraries or API's did you use?]
+The project is a Unity 6.3 LTS scene built for the Meta Quest 3, using OpenXR and the Meta XR SDK for headset and controller input. The entire experience lives in a single scene (SampleScene.unity) with all interactions driven by small, focused C# scripts under Assets/Scripts/.
+
+Each interactive object has its own behavior:
+
+- Music.cs and Pinball.cs adjust audio volume based on the player's distance to the object, fading sound in as you approach and out as you walk away.
+Laptop.cs swaps between an open and closed laptop model when the player enters or leaves a trigger range.
+- Wave.cs drives the avatar's animator, switching from a dance loop to a wave when the player gets close.
+hinge.cs, Rotate.cs, and ShowText.cs handle smaller interactions like rotating props and surfacing labels.
+- The scripts use the same proximity-based pattern, comparing the player's headset position (CenterEyeAnchor) against each object's transform, which keeps the logic simple and consistent across the room.
 
 ## Challenges & Future Work
 - It was hard to connect MetaQuest to Unity because there was a lot of bugs when installing, setting it up, and dealing with storage issues.
