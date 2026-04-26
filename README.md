@@ -1,4 +1,4 @@
-# Inside Langsam 411: A Virtual Reality Recreation of University of Cincinnati's Classroom
+# Inside Langsam 418: A Virtual Reality Recreation of University of Cincinnati's Classroom
 
 ## Motivation
 We wanted to challenge the idea that learning spaces have to feel formal or stressful. Our goal was to design a virtual classroom that prioritizes comfort, creativity, and playfulness, showing how VR can transform an everyday environment into something more personal and inviting.
