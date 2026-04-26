@@ -62,5 +62,5 @@ TODO: Add Screenshots
 Minimal AI usage besides for asset creation - mostly developed manually.
 
 ## Demo Video
-[Link to demo]
+[Link to demo](https://drive.google.com/file/d/1CcVdJR8fiT5L79GzELgUpgX1q9ONDaav/view?usp=sharing)
 
