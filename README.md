@@ -24,8 +24,7 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 **Level 3 Bonus:** Created custom avatar characters that look like us using AvatarSDK.com.
 | Fareena | Elshaddai | Ikran | Kelly |
 |----------|----------|----------|----------|
-| <img width="204" height="395" alt="image" src="https://github.com/user-attachments/assets/6ef3d082-c945-4cce-9076-10247318ad5c" /> | <img width="200" height="296.3" alt="image" src="https://github.com/user-attachments/assets/1e4ec728-9dea-4ec4-926e-ad1ef0732f9f" />
- | Value 3  | Value 4  |
+| <img width="251" height="331" alt="image" src="https://github.com/user-attachments/assets/b6b267e0-e638-409e-ab42-94b05366d0ea" />| <img width="200" height="296.3" alt="image" src="https://github.com/user-attachments/assets/1e4ec728-9dea-4ec4-926e-ad1ef0732f9f" /> | <img width="495" height="515" alt="image" src="https://github.com/user-attachments/assets/c9650498-ad81-4e1d-8173-c41934e1ac06" />| <img width="205" height="314" alt="image" src="https://github.com/user-attachments/assets/b2fc3805-a3ce-4a29-86d5-4e1631025a23" />|
 
 
 
