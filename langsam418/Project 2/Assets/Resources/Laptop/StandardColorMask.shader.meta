@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3048b63456d514c4c93dba0f700343dc
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90315
+  packageName: Laptop Free
+  packageVersion: 1.0
+  assetPath: Assets/Laptop/StandardColorMask.shader
+  uploadId: 179394
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Mask: {fileID: 2800000, guid: 0a5a7b5309c68f14e9fa2c43fadc92fe, type: 3}
+  - _MainTex: {fileID: 2800000, guid: 73580c47eab753b47ba9b9680de8f055, type: 3}
+  - _Spec: {fileID: 2800000, guid: 356f2bc3a03d6b3448768ab986a926b2, type: 3}
+  - _Normal: {fileID: 2800000, guid: 7349e76c837a33e42a61a654719f1045, type: 3}
+  - _OcclusionMap: {instanceID: 0}
+  - _Emission: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
