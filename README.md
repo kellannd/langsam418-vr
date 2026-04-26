@@ -34,6 +34,7 @@ TODO: Add Screenshots
 - **[CGTrader](https://www.cgtrader.com):** Lava lamp, pencil, notebook, coffee cup, gym bag, plants
 - **[Unity Asset Store](https://assetstore.unity.com/):** Tables and chairs
 - **[AvatarSDK.com](https://avatarsdk.com):** Custom characters
+- **[Mixamo.com](https://www.mixamo.com/#/):** Character Animations
 
 **Sounds:**
 - **Pinball:** https://youtu.be/gdjx1Dbxpro?si=X661oeg6W-eNQMAY
