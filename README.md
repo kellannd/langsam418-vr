@@ -1,5 +1,7 @@
 # Inside Langsam 418: A Virtual Reality Recreation of University of Cincinnati's Classroom
 
+Developed by: Kelly Deal, Elshaddai Melaku, Ikran Warsame, Fareena Khan
+
 <img src="media/welcome-langsam.png" alt="Welcome to Langsam" width="500" />
 
 ## Motivation
@@ -60,17 +62,17 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 ## Process
 - Clone & open in Unity 6.3 LTS (6000.3.1f1)
 - Load `SampleScene.unity` and press Play
-- Main scripts: `AvatarRoomWanderer.cs`, `MixamoMotionModelImporter.cs`
+- Main scripts: `Music.cs`, `Pinball.cs`, `Wave.cs`, `laptop.cs`, `hinge.cs`, `Rotate.cs`, `ShowText.cs`
 - Tech: Unity, C#, [Mixamo](https://www.mixamo.com), [Meta Quest 3](https://www.meta.com/quest/quest-3)
 
-The project is a Unity 6.3 LTS scene built for the Meta Quest 3, using OpenXR and the Meta XR SDK for headset and controller input. The entire experience lives in a single scene (SampleScene.unity) with all interactions driven by small, focused C# scripts under Assets/Scripts/.
+The project is a Unity 6.3 LTS scene built for the Meta Quest 3, using OpenXR and the Meta XR SDK for headset and controller input. The entire experience lives in a single scene (`SampleScene.unity`) with all interactions driven by small, focused C# scripts under `Assets/` and `Assets/Scripts/`.
 
 Each interactive object has its own behavior:
 
-- Music.cs and Pinball.cs adjust audio volume based on the player's distance to the object, fading sound in as you approach and out as you walk away.
-Laptop.cs swaps between an open and closed laptop model when the player enters or leaves a trigger range.
-- Wave.cs drives the avatar's animator, switching from a dance loop to a wave when the player gets close.
-hinge.cs, Rotate.cs, and ShowText.cs handle smaller interactions like rotating props and surfacing labels.
+- `Music.cs` and `Pinball.cs` adjust audio volume based on the player's distance to the object, fading sound in as you approach and out as you walk away.
+- `laptop.cs` swaps between an open and closed laptop model when the player enters or leaves a trigger range.
+- `Wave.cs` drives the avatar's animator, switching from a dance loop to a wave when the player gets close.
+- `hinge.cs`, `Rotate.cs`, and `ShowText.cs` handle smaller interactions like rotating props and surfacing labels.
 - The scripts use the same proximity-based pattern, comparing the player's headset position (CenterEyeAnchor) against each object's transform, which keeps the logic simple and consistent across the room.
 
 ## Challenges & Future Work
