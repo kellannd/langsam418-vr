@@ -19,8 +19,7 @@ We grabbed assets from Meshy.AI for the fun and more unique stuff (pinball, bean
 ## Accomplishments by Level
 **Level 1:** Furnished the room with comfortable seating (couches & bean bags), warm lighting, and ambient sounds (pinball, music playing from the turntable).
 
-<img src="media/table-chairs.png" alt="Tables and chairs" width="300" />
-<img src="media/turntable-and-beanbags.png" alt="Turntable and bean bags" width="300" />
+<img src="media/table-chairs.png" alt="Tables and chairs" width="372" /> <img src="media/turntable-and-beanbags.png" alt="Turntable and bean bags" width="300" />
 
 **Level 2:** Added interactive objects (coffee cups, laptops, notebooks, pencils, plants) with physics and collision detection.
 
