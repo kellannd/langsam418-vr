@@ -81,6 +81,9 @@ hinge.cs, Rotate.cs, and ShowText.cs handle smaller interactions like rotating p
 - We had a difficult time asynchronously working on the project since there wasn't an efficient way to share work or have a smooth version control system setup when it comes to Unity, and it slowed down development efficiency and put burden on one of the team members more than the others which felt unfair.
 - As we neared the end of the project and we had a ton of assets in Unity that made our programs crash continious and we had a lot of trouble getting the controllers to work.
 - In the future we'd continue adding more unique assets and add more AR elements to make the scenes more realistic and fun to interact with.
+- We'd love to add multiplayer so people can hang out in the room together.
+- A working pinball machine you can actually play, and a turntable where you can swap records.
+- A day/night toggle so the room can shift between chill study mode and disco mode.
 
 ## AI & Collaboration
 Minimal AI usage besides for asset creation - mostly developed manually.
